@@ -15,3 +15,14 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
 */
+
+const nThree = "Fizz";
+const nFive = "Buzz";
+
+for(let i = 1; i < 101; i++){
+    if(i % 3 === 0 && i % 5 === 0){
+        console.log(nThree+nFive);
+    }else{
+        console.log(i);
+    }
+}
