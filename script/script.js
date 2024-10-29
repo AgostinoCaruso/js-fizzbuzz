@@ -1,4 +1,7 @@
-# js-fizzbuzz
+"Use strict";
+console.clear();
+
+/*
 
 *Consegna:*
 Scrivi un programma che stampi i numeri da 1 a 100,
@@ -10,3 +13,5 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 *Consigli del giorno:*
 1. scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
+
+*/
