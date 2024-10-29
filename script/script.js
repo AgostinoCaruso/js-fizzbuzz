@@ -24,6 +24,8 @@ for(let i = 1; i < 101; i++){
         console.log(nThree+nFive);
     }else if(i % 3 == 0){
         console.log(nThree);
+    }else if(i % 5 == 0){
+        console.log(nFive);
     }else{
         console.log(i);
     }
